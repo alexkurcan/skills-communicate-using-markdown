@@ -19,3 +19,5 @@ print(f'{x}, WOAH!')
 1. A numbered list
 2. WOAH
 3. ANOTHER ONE!
+
+- Regular list
