@@ -3,10 +3,10 @@
 
 ![Image of a cat](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/500px-Cat_August_2010-4.jpg)
 
-'''python
-x = "Foo Bar"
-print(f'{x}, WOAH!')
-'''
+``` javascript
+var myVar = "Hello, world!";
+```
+
 
 - [x] BLah
 - [x] BLah
@@ -21,3 +21,4 @@ print(f'{x}, WOAH!')
 3. ANOTHER ONE!
 
 - Regular list
+
